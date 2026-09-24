@@ -29,6 +29,63 @@ Tutarlılık için şu sırayı izle: önce **04**'ü (çöp adam) üret. 08 ve 
 | 10 | `10_icon_iguana_cool` | 1:1 | "walks away like nothing happened" | Same green iguana walking away confidently on all four legs, wearing small black sunglasses, relaxed cool attitude, side view facing right. |
 | 11 | `11_char_everyman_confused` | 1:1 | "like nothing happened" (tepki) | Same stick-figure man in yellow t-shirt, scratching his head, very confused face, a big question mark shape made of dots above his head (no letters). |
 
+## Kopyala-yapıştır promptlar (stil dahil)
+
+**01_scene_florida_beach** (9:16)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Sunny Florida beach, tall palm trees, turquoise sea, a few happy cartoon people sunbathing on towels with sunglasses and a beach umbrella, bright blue sky, big smiling sun. Full-frame vertical 9:16 scene, colorful, cinematic composition, keep the lower third calm and simple.
+```
+
+**02_scene_iguanas_falling** (9:16)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Same Florida beach but on a chilly grey morning, a few people in hoodies looking up in shock, several stiff green iguanas falling straight down from the palm tree fronds like sticks, motion lines behind them. Full-frame vertical 9:16 scene, colorful, cinematic composition, keep the lower third calm and simple.
+```
+
+**03_icon_iguana_banana** (1:1)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. A stiff frozen green iguana lying perfectly straight next to a big green unripe banana with the exact same curved shape and pose, side by side comparison, funny. Single subject centered, isolated on pure white background, no ground shadow.
+```
+
+**04_char_everyman_shocked** (1:1)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Simple stick-figure style man with round head, messy black hair, yellow t-shirt, black stick arms and legs, holding a coffee mug, looking up with a shocked wide-eyed face, mouth open. Single subject centered, isolated on pure white background, no ground shadow.
+```
+
+**05_icon_iguana_sleepy** (1:1)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Same green iguana character lying on a tree branch, very sleepy with half-closed droopy eyes, limp legs hanging down, a small blue snowflake above its head. Single subject centered, isolated on pure white background, no ground shadow.
+```
+
+**06_scene_cold_florida** (9:16)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Florida street at dawn in unusual cold weather, palm trees with light frost, people wearing winter coats, scarves and beanies, frosty breath clouds, pale blue light. Full-frame vertical 9:16 scene, colorful, cinematic composition, keep the lower third calm and simple.
+```
+
+**07_diagram_iguana_cutaway** (16:9)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Educational cutaway cross-section diagram of a green iguana's leg showing simple red muscle bands turning icy blue and frozen, clean textbook style, labeled parts WITHOUT any text. Full-frame horizontal 16:9 diagram on a warm off-white background.
+```
+
+**08_char_everyman_poking** (1:1)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Same stick-figure man in yellow t-shirt, crouching and nervously poking a stiff frozen iguana lying on its back with a small twig, worried face. Single subject centered, isolated on pure white background, no ground shadow.
+```
+
+**09_scene_sun_thaw** (9:16)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Frozen green iguana lying on a sidewalk as warm golden sunlight hits it, ice crystals melting into water drops, small wisps of steam rising, warm orange morning light. Full-frame vertical 9:16 scene, colorful, cinematic composition, keep the lower third calm and simple.
+```
+
+**10_icon_iguana_cool** (1:1)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Same green iguana walking away confidently on all four legs, wearing small black sunglasses, relaxed cool attitude, side view facing right. Single subject centered, isolated on pure white background, no ground shadow.
+```
+
+**11_char_everyman_confused** (1:1)
+```
+Hand-drawn educational cartoon illustration, clean bold black outlines of slightly varying thickness, flat bright colors with soft cel shading, friendly and slightly humorous, not scary. Style between a science textbook illustration and a webcomic. Simple readable shapes. No text, no letters, no numbers, no watermark. Same stick-figure man in yellow t-shirt, scratching his head, very confused face, a big question mark shape made of dots above his head (no letters). Single subject centered, isolated on pure white background, no ground shadow.
+```
+
 ## Gerçek fotoğraflar (Pexels veya Unsplash'tan, ücretsiz lisans)
 | # | Dosya | Arama | Nerede |
 |---|---|---|---|
