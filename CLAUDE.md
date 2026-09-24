@@ -1,7 +1,7 @@
 # Proje: "Explained + Doğa/Hava Olayları" YouTube kanalı
 
 Referans kanal: **Professor Gusty** (@professorgusty) — 14 video, ~16K abone, ~2M izlenme, video başı ort. ~150K.
-Tam üretim brifi: `docs/production-brief.md` (Bölüm A–G). Kod yazmadan önce oku.
+Tam üretim brifi: `docs/production-brief.md` (Bölüm A–G). Kare kare referans analizi ve brif düzeltmeleri: `docs/reference-analysis.md` (**brifle çelişirse bu dosya geçerli**). Transkriptler: `docs/transcripts/`. Kod yazmadan önce oku.
 
 ## Çekirdek tez (Ozillo / Burak Turanlı analizi)
 **Çalışan format + çalışan niş + özgün görsel dil.** Yeni niş icat etme; kanıtlanmış iki şeyi birleştir, üstüne kendi imzanı koy.
@@ -19,10 +19,10 @@ Tam üretim brifi: `docs/production-brief.md` (Bölüm A–G). Kod yazmadan önc
 
 ## Kare incelemesinden kurallar (analizin atladıkları)
 1. Sıfır intro — 0:00'da thumbnail ızgarası, 1. sn'de ilk maddeye zoom + maddenin adı.
-2. Sağ üstte sürekli **"Next" rozeti** (sıradaki maddenin ikonu).
+2. Sağ üstte sürekli **"Next" rozeti** (sıradaki maddenin ikonu); bölüm etiketi **üst ortada**. Madde geçişinde tam 8'li ızgaraya dönülür, sonra sıradaki ikona kayılır.
 3. Orta CTA (%45–55): "sonda sadece sonuna kadar izleyenlerin cevaplayabileceği bir soru soracağım."
 4. Anlatılan her isim/sayı/tarih/yer ekranda **senkron** görsel bulur; 3 sn'den uzun boş/sabit görüntü yok.
-- Ölçüler: ~9 dk, 185–190 kel/dk, 7–11 madde, yeni ekran öğesi her 1,5–3 sn, ~−15 LUFS, müzik yatağı yok/çok kısık, SFX ağırlıklı.
+- Ölçüler: ~9 dk, **~145 kel/dk (≈1.300 kelime, madde başına 110–140)**, 7–11 madde, yeni ekran öğesi her 1,5–3 sn, ~−15 LUFS, müzik yatağı yok/çok kısık, SFX ağırlıklı.
 - Görsel oran: %70 beyaz zemin çizim/şema, %20 kenarlı gerçek fotoğraf (tam ekran değil), %10 tam ekran renkli sahne.
 
 ## Kendi kimliğimiz (klon değil, akraba) — `config/brand.json`
@@ -40,3 +40,5 @@ Tam üretim brifi: `docs/production-brief.md` (Bölüm A–G). Kod yazmadan önc
 - Ana ürün yatay uzun form. Shorts ikinci aşama: 5–10 uzun video birikince segmentlerden türet.
 - Diller: EN → ES → PT-BR → DE → TR. Çeviri değil yerelleştirme (o ülkenin kendi olaylarından madde ekle).
 - Olgular doğrulanmış olmalı; emin olunmayan iddia "reported" / "scientists think" ile yumuşatılır.
+- Telifli meme/film karesi kullanma; gag'ler kendi karakter ve ikonlarımızla.
+- Referans kanal olguları abartıyor/yanlış veriyor; biz aynı enerjik tonla doğru sayılar kullanırız (farklılaşma noktası).
