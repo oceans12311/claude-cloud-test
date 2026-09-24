@@ -1,0 +1,301 @@
+{
+ "duration": 15.967,
+ "lines": [
+  {
+   "id": "title",
+   "text": "Frozen iguanas.",
+   "start": 0.0,
+   "end": 0.945,
+   "words": [
+    {
+     "w": "Frozen",
+     "start": 0.0,
+     "end": 0.445
+    },
+    {
+     "w": "iguanas.",
+     "start": 0.445,
+     "end": 0.945
+    }
+   ]
+  },
+  {
+   "id": "florida",
+   "text": "Florida is sunshine, beaches,",
+   "start": 1.165,
+   "end": 2.622,
+   "words": [
+    {
+     "w": "Florida",
+     "start": 1.165,
+     "end": 1.575
+    },
+    {
+     "w": "is",
+     "start": 1.575,
+     "end": 1.757
+    },
+    {
+     "w": "sunshine,",
+     "start": 1.757,
+     "end": 2.213
+    },
+    {
+     "w": "beaches,",
+     "start": 2.213,
+     "end": 2.622
+    }
+   ]
+  },
+  {
+   "id": "fall",
+   "text": "and lizards falling out of trees like stiff green bananas.",
+   "start": 2.842,
+   "end": 5.492,
+   "words": [
+    {
+     "w": "and",
+     "start": 2.842,
+     "end": 3.037
+    },
+    {
+     "w": "lizards",
+     "start": 3.037,
+     "end": 3.388
+    },
+    {
+     "w": "falling",
+     "start": 3.388,
+     "end": 3.739
+    },
+    {
+     "w": "out",
+     "start": 3.739,
+     "end": 3.934
+    },
+    {
+     "w": "of",
+     "start": 3.934,
+     "end": 4.089
+    },
+    {
+     "w": "trees",
+     "start": 4.089,
+     "end": 4.362
+    },
+    {
+     "w": "like",
+     "start": 4.362,
+     "end": 4.596
+    },
+    {
+     "w": "stiff",
+     "start": 4.596,
+     "end": 4.869
+    },
+    {
+     "w": "green",
+     "start": 4.869,
+     "end": 5.142
+    },
+    {
+     "w": "bananas.",
+     "start": 5.142,
+     "end": 5.492
+    }
+   ]
+  },
+  {
+   "id": "slow",
+   "text": "Below ten degrees Celsius, iguanas get slow.",
+   "start": 5.712,
+   "end": 8.204,
+   "words": [
+    {
+     "w": "Below",
+     "start": 5.712,
+     "end": 6.061
+    },
+    {
+     "w": "ten",
+     "start": 6.061,
+     "end": 6.31
+    },
+    {
+     "w": "degrees",
+     "start": 6.31,
+     "end": 6.759
+    },
+    {
+     "w": "Celsius,",
+     "start": 6.759,
+     "end": 7.207
+    },
+    {
+     "w": "iguanas",
+     "start": 7.207,
+     "end": 7.656
+    },
+    {
+     "w": "get",
+     "start": 7.656,
+     "end": 7.905
+    },
+    {
+     "w": "slow.",
+     "start": 7.905,
+     "end": 8.204
+    }
+   ]
+  },
+  {
+   "id": "lock",
+   "text": "Near four, their muscles lock up.",
+   "start": 8.424,
+   "end": 9.897,
+   "words": [
+    {
+     "w": "Near",
+     "start": 8.424,
+     "end": 8.656
+    },
+    {
+     "w": "four,",
+     "start": 8.656,
+     "end": 8.889
+    },
+    {
+     "w": "their",
+     "start": 8.889,
+     "end": 9.161
+    },
+    {
+     "w": "muscles",
+     "start": 9.161,
+     "end": 9.51
+    },
+    {
+     "w": "lock",
+     "start": 9.51,
+     "end": 9.742
+    },
+    {
+     "w": "up.",
+     "start": 9.742,
+     "end": 9.897
+    }
+   ]
+  },
+  {
+   "id": "paused",
+   "text": "It's not dead. It's paused.",
+   "start": 10.117,
+   "end": 11.311,
+   "words": [
+    {
+     "w": "It's",
+     "start": 10.117,
+     "end": 10.348
+    },
+    {
+     "w": "not",
+     "start": 10.348,
+     "end": 10.541
+    },
+    {
+     "w": "dead.",
+     "start": 10.541,
+     "end": 10.772
+    },
+    {
+     "w": "It's",
+     "start": 10.772,
+     "end": 11.003
+    },
+    {
+     "w": "paused.",
+     "start": 11.003,
+     "end": 11.311
+    }
+   ]
+  },
+  {
+   "id": "thaw",
+   "text": "When the sun comes back, it thaws out and walks away like nothing happened.",
+   "start": 11.531,
+   "end": 15.147,
+   "words": [
+    {
+     "w": "When",
+     "start": 11.531,
+     "end": 11.777
+    },
+    {
+     "w": "the",
+     "start": 11.777,
+     "end": 11.983
+    },
+    {
+     "w": "sun",
+     "start": 11.983,
+     "end": 12.188
+    },
+    {
+     "w": "comes",
+     "start": 12.188,
+     "end": 12.476
+    },
+    {
+     "w": "back,",
+     "start": 12.476,
+     "end": 12.723
+    },
+    {
+     "w": "it",
+     "start": 12.723,
+     "end": 12.887
+    },
+    {
+     "w": "thaws",
+     "start": 12.887,
+     "end": 13.175
+    },
+    {
+     "w": "out",
+     "start": 13.175,
+     "end": 13.38
+    },
+    {
+     "w": "and",
+     "start": 13.38,
+     "end": 13.586
+    },
+    {
+     "w": "walks",
+     "start": 13.586,
+     "end": 13.873
+    },
+    {
+     "w": "away",
+     "start": 13.873,
+     "end": 14.12
+    },
+    {
+     "w": "like",
+     "start": 14.12,
+     "end": 14.367
+    },
+    {
+     "w": "nothing",
+     "start": 14.367,
+     "end": 14.736
+    },
+    {
+     "w": "happened.",
+     "start": 14.736,
+     "end": 15.147
+    }
+   ]
+  }
+ ]
+}

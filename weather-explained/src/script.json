@@ -1,0 +1,12 @@
+{
+  "title": "Frozen Iguanas",
+  "lines": [
+    {"id": "title",   "text": "Frozen iguanas."},
+    {"id": "florida", "text": "Florida is sunshine, beaches,"},
+    {"id": "fall",    "text": "and lizards falling out of trees like stiff green bananas."},
+    {"id": "slow",    "text": "Below ten degrees Celsius, iguanas get slow."},
+    {"id": "lock",    "text": "Near four, their muscles lock up."},
+    {"id": "paused",  "text": "It's not dead. It's paused."},
+    {"id": "thaw",    "text": "When the sun comes back, it thaws out and walks away like nothing happened."}
+  ]
+}
