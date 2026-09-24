@@ -174,7 +174,8 @@ const ThawScene: React.FC = () => <FullScene n="09" from={1.0} to={1.15} drift={
 
 const CoolWalkScene: React.FC = () => {
   const frame = useCurrentFrame();
-  const x = interpolate(frame, [0, 60], [-700, 1200]);
+  const {durationInFrames} = useVideoConfig();
+  const x = interpolate(frame, [0, durationInFrames], [-760, 1000]);
   const bob = Math.abs(Math.sin(frame / 3)) * -18;
   return (
     <Paper>
@@ -197,7 +198,7 @@ export const IguanaShort: React.FC = () => {
     {from: likeAt, to: L.slow.start, el: <BananaScene />},
     {from: L.slow.start, to: sleepyAt, el: <ColdStreetScene />},
     {from: sleepyAt, to: L.lock.start, el: <SleepyScene />},
-    {from: L.lock.start, to: L.paused.start, el: <MuscleScene lockAt={f(wordAt(L.lock, 'lock') - L.lock.start)} />},
+    {from: L.lock.start, to: L.paused.start, el: <MuscleScene lockAt={f(wordAt(L.lock, 'muscles') - L.lock.start)} />},
     {from: L.paused.start, to: L.thaw.start, el: <PokeScene secondAt={f(L.paused.words[3].start - L.paused.start)} />},
     {from: L.thaw.start, to: walkAt, el: <ThawScene />},
     {from: walkAt, to: timing.duration, el: <CoolWalkScene />},
@@ -225,7 +226,7 @@ export const IguanaShort: React.FC = () => {
       <Sfx at={likeAt + 0.2} name="marker" />
       <Sfx at={L.slow.start} name="freeze" volume={0.4} />
       <Sfx at={sleepyAt} name="pop" volume={0.4} />
-      <Sfx at={wordAt(L.lock, 'lock')} name="thud" />
+      <Sfx at={wordAt(L.lock, 'muscles') + 0.35} name="thud" />
       <Sfx at={L.paused.words[3].start + 0.3} name="pop" />
       <Sfx at={L.thaw.start} name="ding" volume={0.35} />
       <Sfx at={walkAt} name="whoosh" volume={0.4} />
